@@ -1,0 +1,1 @@
+{"version":2,"rewrites":[{"source":"/api/story","destination":"/api/story"}],"headers":[{"source":"/(.*)","headers":[{"key":"X-Content-Type-Options","value":"nosniff"}]}]}
